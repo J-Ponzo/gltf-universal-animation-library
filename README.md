@@ -1,7 +1,7 @@
 # gltf-universal-animation-library
 This is the standard FREE version of @Quaternius's Universal Animation Library as distributed at [itch.io](https://quaternius.itch.io/universal-animation-library) on 2025-06-10 (with gltf files only to keep the repository as small as possible) 
 
-![Preview image](Preview.jpg)
+![Preview image](Preview.png)
 
 It only contains a portion of the animations. You can buy the PRO version which has all the animations, or the SOURCE version which has all the animations and also includes .blend files.
 
